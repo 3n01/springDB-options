@@ -1,0 +1,9 @@
+server:
+  port: 9096
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/corporation
+    username: root
+    password: neol
+    driver-class-name: com.mysql.jdbc.Driver
